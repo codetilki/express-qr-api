@@ -3,5 +3,5 @@ Agalar şimdi nasıl kurulduğunu öğretiyim
 1. npm i qrcode
 2. npm i express
 3. node .
-#kullanımı
-<a href="https://localhost:3000/qrcode?data=Tilki">https://localhost:3000/qrcode?data=Tilki"</a>
+# kullanımı
+<p align="center"><a href="https://localhost:3000/qrcode?data=Tilki">https://localhost:3000/qrcode?data=Tilki"</a></p>
