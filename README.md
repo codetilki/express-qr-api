@@ -4,4 +4,4 @@ Agalar şimdi nasıl kurulduğunu öğretiyim
 2. npm i express
 3. node .
 # kullanımı
-<p align="center"><a href="https://localhost:3000/qrcode?data=Tilki">https://localhost:3000/qrcode?data=Tilki"</a></p>
+<p align="center"><a href="https://localhost:3000/qrcode?data=Tilki">https://localhost:3000/qrcode?data=Tilki</a></p>
